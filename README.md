@@ -1,0 +1,2 @@
+# herencia
+deber
